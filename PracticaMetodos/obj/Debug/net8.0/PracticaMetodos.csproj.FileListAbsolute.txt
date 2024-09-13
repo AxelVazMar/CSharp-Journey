@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\PracticaMetodos\bin\Debug\net8.0\PracticaMetodos.exe
+D:\C# Projects\C#-Journey\PracticaMetodos\bin\Debug\net8.0\PracticaMetodos.deps.json
+D:\C# Projects\C#-Journey\PracticaMetodos\bin\Debug\net8.0\PracticaMetodos.runtimeconfig.json
+D:\C# Projects\C#-Journey\PracticaMetodos\bin\Debug\net8.0\PracticaMetodos.dll
+D:\C# Projects\C#-Journey\PracticaMetodos\bin\Debug\net8.0\PracticaMetodos.pdb
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.sourcelink.json
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.dll
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\refint\PracticaMetodos.dll
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.pdb
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\PracticaMetodos.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\PracticaMetodos\obj\Debug\net8.0\ref\PracticaMetodos.dll
