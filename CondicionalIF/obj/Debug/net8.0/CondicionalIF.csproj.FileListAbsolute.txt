@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\CondicionalIF\bin\Debug\net8.0\CondicionalIF.exe
+D:\C# Projects\C#-Journey\CondicionalIF\bin\Debug\net8.0\CondicionalIF.deps.json
+D:\C# Projects\C#-Journey\CondicionalIF\bin\Debug\net8.0\CondicionalIF.runtimeconfig.json
+D:\C# Projects\C#-Journey\CondicionalIF\bin\Debug\net8.0\CondicionalIF.dll
+D:\C# Projects\C#-Journey\CondicionalIF\bin\Debug\net8.0\CondicionalIF.pdb
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.sourcelink.json
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.dll
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\refint\CondicionalIF.dll
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.pdb
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\CondicionalIF.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\CondicionalIF\obj\Debug\net8.0\ref\CondicionalIF.dll
