@@ -1,4 +1,5 @@
-﻿class Program
+﻿
+class Program
 {
     // int numero1 = 5;
     // int numero2 = 7;
@@ -7,7 +8,22 @@
         // Console.WriteLine("Hello World!");
         // Console.WriteLine(divisionNumeros(18, 7));
         // Console.WriteLine(divisionNumeros2(3, 5));
+        int valor1 = 7;
+        double valor2 = 5.2;
+        double valor3 = 8.3;
+        
+        System.Console.WriteLine(Suma4(valor1, valor2));
 
+    }
+
+    private static double Suma4(int num1, double num2, double num3 = 0)
+    {
+        return num1 + num2 + num3;
+    }
+
+    static double Suma4(int num1, double num2)
+    {
+        return num1 + num2;
     }
 
     static double divisionNumeros(double num1, int num2) // Un double con un int siempre dará double
