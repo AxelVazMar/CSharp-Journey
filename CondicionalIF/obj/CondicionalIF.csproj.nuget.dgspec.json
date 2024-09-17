@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Projects\\C#-Journey\\CondicionalIF\\CondicionalIF.csproj": {}
+    "/Users/axelvm/Documents/C#/CSharp-Journey/CondicionalIF/CondicionalIF.csproj": {}
   },
   "projects": {
-    "D:\\C# Projects\\C#-Journey\\CondicionalIF\\CondicionalIF.csproj": {
+    "/Users/axelvm/Documents/C#/CSharp-Journey/CondicionalIF/CondicionalIF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\C#-Journey\\CondicionalIF\\CondicionalIF.csproj",
+        "projectUniqueName": "/Users/axelvm/Documents/C#/CSharp-Journey/CondicionalIF/CondicionalIF.csproj",
         "projectName": "CondicionalIF",
-        "projectPath": "D:\\C# Projects\\C#-Journey\\CondicionalIF\\CondicionalIF.csproj",
-        "packagesPath": "C:\\Users\\Axel Vazquez\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\C#-Journey\\CondicionalIF\\obj\\",
+        "projectPath": "/Users/axelvm/Documents/C#/CSharp-Journey/CondicionalIF/CondicionalIF.csproj",
+        "packagesPath": "/Users/axelvm/.nuget/packages/",
+        "outputPath": "/Users/axelvm/Documents/C#/CSharp-Journey/CondicionalIF/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Programs\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Axel Vazquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/axelvm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
