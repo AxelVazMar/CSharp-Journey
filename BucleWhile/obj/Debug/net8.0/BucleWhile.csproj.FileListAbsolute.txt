@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\BucleWhile\bin\Debug\net8.0\BucleWhile.exe
+D:\C# Projects\C#-Journey\BucleWhile\bin\Debug\net8.0\BucleWhile.deps.json
+D:\C# Projects\C#-Journey\BucleWhile\bin\Debug\net8.0\BucleWhile.runtimeconfig.json
+D:\C# Projects\C#-Journey\BucleWhile\bin\Debug\net8.0\BucleWhile.dll
+D:\C# Projects\C#-Journey\BucleWhile\bin\Debug\net8.0\BucleWhile.pdb
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.sourcelink.json
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.dll
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\refint\BucleWhile.dll
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.pdb
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\BucleWhile.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\BucleWhile\obj\Debug\net8.0\ref\BucleWhile.dll
