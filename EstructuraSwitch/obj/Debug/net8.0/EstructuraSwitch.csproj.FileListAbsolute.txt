@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.exe
+D:\C# Projects\C#-Journey\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.deps.json
+D:\C# Projects\C#-Journey\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.runtimeconfig.json
+D:\C# Projects\C#-Journey\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.dll
+D:\C# Projects\C#-Journey\EstructuraSwitch\bin\Debug\net8.0\EstructuraSwitch.pdb
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.sourcelink.json
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.dll
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\refint\EstructuraSwitch.dll
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.pdb
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\EstructuraSwitch.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\EstructuraSwitch\obj\Debug\net8.0\ref\EstructuraSwitch.dll
