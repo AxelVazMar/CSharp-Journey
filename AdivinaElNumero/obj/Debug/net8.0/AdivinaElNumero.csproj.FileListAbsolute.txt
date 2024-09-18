@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\AdivinaElNumero\bin\Debug\net8.0\AdivinaElNumero.exe
+D:\C# Projects\C#-Journey\AdivinaElNumero\bin\Debug\net8.0\AdivinaElNumero.deps.json
+D:\C# Projects\C#-Journey\AdivinaElNumero\bin\Debug\net8.0\AdivinaElNumero.runtimeconfig.json
+D:\C# Projects\C#-Journey\AdivinaElNumero\bin\Debug\net8.0\AdivinaElNumero.dll
+D:\C# Projects\C#-Journey\AdivinaElNumero\bin\Debug\net8.0\AdivinaElNumero.pdb
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.sourcelink.json
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.dll
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\refint\AdivinaElNumero.dll
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.pdb
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\AdivinaElNumero.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\AdivinaElNumero\obj\Debug\net8.0\ref\AdivinaElNumero.dll
