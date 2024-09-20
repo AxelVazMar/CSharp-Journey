@@ -17,13 +17,35 @@
             {
                 nAdivinar = int.Parse(Console.ReadLine());
             }
+
+            /* Si queremos capturar una excpeción en concreto y después queremos capturar excpeciones generales
+               debemos de capturar antes la expeción en concreto y después las generales
+            */
+            // catch(FormatException e) 
+            // {
+            //     Console.WriteLine("Has introducido texto\nEl texto introducido se tomará como 0\n");
+            //     nAdivinar = 0;
+            // }
+
             //Capturando un número indeterminado de excepciones para hacer el programa tolerante a fallos
-            catch (Exception e) // Cuando utilizamos una excpeción génrica podemos prescindir del catch(ErrorAAtrapar), pero no es recomendable
+            // Cuando utilizamos una excpeción génrica podemos prescindir del catch(ErrorAAtrapar) => catch(), pero no es recomendable
+            catch (Exception e) when (e.GetType() != typeof(FormatException))
+            /* => Otra manera de darle un tratamineto específico a una excpeción es filtrar la expeción
+            para que el primer catch no detecte algún tipo en concreto de expeción para después con otro
+            catch ya podamos capturar esa expeción en concreto
+            */
             {
-                Console.WriteLine("\nNo haz ingresado un valor númerico válido.\nEl número se tomará como 0\n");
-                System.Console.WriteLine(e.Message); // Con esta línea imprimimos el error que nos dió
+                Console.WriteLine("\nHa habido un error.\nEl número se tomará como 0\n");
+                // System.Console.WriteLine(e.Message); // Con esta línea imprimimos el error que nos dió
                 nAdivinar = 0;
             }
+
+            catch (FormatException e)
+            {
+                System.Console.WriteLine("\n¡¡¡Has introducido texto!!!\nEl texto se tomará como 0\n");
+                nAdivinar = 0;
+            }
+
 
             if (nAdivinar < numeroAleatorio)
             {
