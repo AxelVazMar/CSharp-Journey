@@ -14,16 +14,16 @@
         {
             if (nAdivinar < numeroAleatorio)
             {
-                System.Console.WriteLine($"El numero es mayor que {nAdivinar}");
+                Console.WriteLine($"El numero es mayor que {nAdivinar}");
                 nAdivinar = int.Parse(Console.ReadLine());
             }
             else if (nAdivinar > numeroAleatorio)
             {
-                System.Console.WriteLine($"El número es menor que {nAdivinar}");
+                Console.WriteLine($"El número es menor que {nAdivinar}");
                 nAdivinar = int.Parse(Console.ReadLine());
             }
-            
-            intento ++;
+
+            intento++;
         }
 
         System.Console.WriteLine($"Felicidades has encontrado el número secreto \nTu número de intentos fué de: " + intento);

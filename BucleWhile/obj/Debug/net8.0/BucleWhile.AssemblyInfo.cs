@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BucleWhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c36a24c40d0debf3bc7ae5ea1d93170106c9ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11a5677d189ed34e54ab09d8a60b5ac88059492b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BucleWhile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BucleWhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
