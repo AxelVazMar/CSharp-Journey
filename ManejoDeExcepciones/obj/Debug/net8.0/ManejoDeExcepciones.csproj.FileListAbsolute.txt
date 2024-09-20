@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\bin\Debug\net8.0\ManejoDeExcepciones.exe
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\bin\Debug\net8.0\ManejoDeExcepciones.deps.json
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\bin\Debug\net8.0\ManejoDeExcepciones.runtimeconfig.json
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\bin\Debug\net8.0\ManejoDeExcepciones.dll
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\bin\Debug\net8.0\ManejoDeExcepciones.pdb
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.sourcelink.json
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.dll
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\refint\ManejoDeExcepciones.dll
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.pdb
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ManejoDeExcepciones.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\ManejoDeExcepciones\obj\Debug\net8.0\ref\ManejoDeExcepciones.dll
