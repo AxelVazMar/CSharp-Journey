@@ -17,9 +17,11 @@
             {
                 nAdivinar = int.Parse(Console.ReadLine());
             }
-            catch (FormatException ex)
+            //Capturando un número indeterminado de excepciones para hacer el programa tolerante a fallos
+            catch (Exception e) // Cuando utilizamos una excpeción génrica podemos prescindir del catch(ErrorAAtrapar), pero no es recomendable
             {
-                Console.WriteLine($"No haz ingresado un valor númerico.\nEl número se tomará como 0\n");
+                Console.WriteLine("\nNo haz ingresado un valor númerico válido.\nEl número se tomará como 0\n");
+                System.Console.WriteLine(e.Message); // Con esta línea imprimimos el error que nos dió
                 nAdivinar = 0;
             }
 
