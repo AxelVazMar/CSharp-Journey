@@ -12,6 +12,7 @@
         do
         {
             intento++;
+            // Este bloque try/catch valida y captura si el usuario ingresó un string en vez de un int
             try
             {
                 nAdivinar = int.Parse(Console.ReadLine());
