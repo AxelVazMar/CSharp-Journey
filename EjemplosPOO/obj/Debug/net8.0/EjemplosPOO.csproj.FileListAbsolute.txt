@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\EjemplosPOO\bin\Debug\net8.0\EjemplosPOO.exe
+D:\C# Projects\C#-Journey\EjemplosPOO\bin\Debug\net8.0\EjemplosPOO.deps.json
+D:\C# Projects\C#-Journey\EjemplosPOO\bin\Debug\net8.0\EjemplosPOO.runtimeconfig.json
+D:\C# Projects\C#-Journey\EjemplosPOO\bin\Debug\net8.0\EjemplosPOO.dll
+D:\C# Projects\C#-Journey\EjemplosPOO\bin\Debug\net8.0\EjemplosPOO.pdb
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.sourcelink.json
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.dll
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\refint\EjemplosPOO.dll
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.pdb
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\EjemplosPOO.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\EjemplosPOO\obj\Debug\net8.0\ref\EjemplosPOO.dll
