@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\UsoChecked\bin\Debug\net8.0\UsoChecked.exe
+D:\C# Projects\C#-Journey\UsoChecked\bin\Debug\net8.0\UsoChecked.deps.json
+D:\C# Projects\C#-Journey\UsoChecked\bin\Debug\net8.0\UsoChecked.runtimeconfig.json
+D:\C# Projects\C#-Journey\UsoChecked\bin\Debug\net8.0\UsoChecked.dll
+D:\C# Projects\C#-Journey\UsoChecked\bin\Debug\net8.0\UsoChecked.pdb
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.sourcelink.json
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.dll
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\refint\UsoChecked.dll
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.pdb
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\UsoChecked.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\UsoChecked\obj\Debug\net8.0\ref\UsoChecked.dll
