@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\BloqueFinally\bin\Debug\net8.0\BloqueFinally.exe
+D:\C# Projects\C#-Journey\BloqueFinally\bin\Debug\net8.0\BloqueFinally.deps.json
+D:\C# Projects\C#-Journey\BloqueFinally\bin\Debug\net8.0\BloqueFinally.runtimeconfig.json
+D:\C# Projects\C#-Journey\BloqueFinally\bin\Debug\net8.0\BloqueFinally.dll
+D:\C# Projects\C#-Journey\BloqueFinally\bin\Debug\net8.0\BloqueFinally.pdb
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.sourcelink.json
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.dll
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\refint\BloqueFinally.dll
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.pdb
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\BloqueFinally.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\BloqueFinally\obj\Debug\net8.0\ref\BloqueFinally.dll
