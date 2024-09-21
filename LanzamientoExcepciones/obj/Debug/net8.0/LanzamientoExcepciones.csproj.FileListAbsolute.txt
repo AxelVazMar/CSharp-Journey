@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.sourcelink.json
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\bin\Debug\net8.0\LanzamientoExcepciones.exe
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\bin\Debug\net8.0\LanzamientoExcepciones.deps.json
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\bin\Debug\net8.0\LanzamientoExcepciones.runtimeconfig.json
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\bin\Debug\net8.0\LanzamientoExcepciones.dll
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\bin\Debug\net8.0\LanzamientoExcepciones.pdb
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.dll
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\refint\LanzamientoExcepciones.dll
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.pdb
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\LanzamientoExcepciones.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\LanzamientoExcepciones\obj\Debug\net8.0\ref\LanzamientoExcepciones.dll
