@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/bin/Debug/net8.0/UsoCoches
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/bin/Debug/net8.0/UsoCoches.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/bin/Debug/net8.0/UsoCoches.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/bin/Debug/net8.0/UsoCoches.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/bin/Debug/net8.0/UsoCoches.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/refint/UsoCoches.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/UsoCoches.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/UsoCoches/obj/Debug/net8.0/ref/UsoCoches.dll
