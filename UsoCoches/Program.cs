@@ -11,10 +11,13 @@
         Coche coche3 = new Coche(4500.25, 1200.25);
         System.Console.WriteLine(coche3.getInfoCoche());
 
+        coche3.setExtras(true, "Cuero");
+        System.Console.WriteLine(coche3.getExtras());
+
     }
 }
 
-class Coche
+partial class Coche
 {
     public Coche()
     {
@@ -23,8 +26,15 @@ class Coche
         largo = 2300.5;
 
         ancho = 0.800;
-    }
 
+        tapiceria = "Tela";
+    }
+}
+
+//-----------Con la palabra reservada partial podemos dividir las clases en mitades pare así hacer el-----------
+//                -----------código más entendible y fácil de buscar-----------                           
+partial class Coche
+{
     // Sobrecarga de constructores
 
     public Coche(double anchoCoche, double largoCoche)
@@ -32,6 +42,7 @@ class Coche
         ruedas = 4;
         ancho = anchoCoche;
         largo = largoCoche;
+        tapiceria = "Tela";
     }
 
 
@@ -41,7 +52,19 @@ class Coche
     */
     public string getInfoCoche()
     {
-        return "Información del coche:\n" + "Ruedas: " + ruedas + "\nLargo: " + largo + "\nAncho: " + ancho;
+        return "\nInformación del coche:\n" + "Ruedas: " + ruedas + "\nLargo: " + largo + "\nAncho: " + ancho;
+    }
+
+    public void setExtras(bool aireAcondicionado, string tapiceria)
+    {
+        // Con la palabra reservada this. podemos hacer que C# diferencie entre las variables y los parámetros
+        this.aireAcondicionado = aireAcondicionado;
+        this.tapiceria = tapiceria;
+    }
+
+    public string getExtras()
+    {
+        return "Extras del coche:" + "\nAire Acondicionado: " + aireAcondicionado + "\nTapicería: " + tapiceria;
     }
     
     private int ruedas;
