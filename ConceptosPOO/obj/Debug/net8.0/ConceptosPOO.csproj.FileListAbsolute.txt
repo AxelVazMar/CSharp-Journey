@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/bin/Debug/net8.0/ConceptosPOO
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/bin/Debug/net8.0/ConceptosPOO.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/bin/Debug/net8.0/ConceptosPOO.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/bin/Debug/net8.0/ConceptosPOO.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/bin/Debug/net8.0/ConceptosPOO.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/refint/ConceptosPOO.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ConceptosPOO.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/ConceptosPOO/obj/Debug/net8.0/ref/ConceptosPOO.dll
