@@ -26,7 +26,7 @@ public class Punto
         int xDif = this.x - otroPunto.x; //this.x hace referencia al constructor por defecto por lo que x=0 y otroPunto.x hace referencia al constructor con parámetros en este caso x=128
         int yDif = this.y - otroPunto.y;
         double distanciaPuntos = Math.Sqrt(Math.Pow(xDif, 2) + Math.Pow(yDif, 2));
-        return distanciaPuntos;
-        
+        return distanciaPuntos; 
+        //hola
     }
 }
