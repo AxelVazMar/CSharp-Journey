@@ -27,5 +27,6 @@ public class Punto
         int yDif = this.y - otroPunto.y;
         double distanciaPuntos = Math.Sqrt(Math.Pow(xDif, 2) + Math.Pow(yDif, 2));
         return distanciaPuntos;
+        
     }
 }
