@@ -11,6 +11,8 @@ public class Punto
         //System.Console.WriteLine($"Coordenada X: {x}, Coordenada Y: {y}");
         this.x = x;
         this.y = y;
+        contadorDeObjetos++;
+
     }
 
     public Punto()
@@ -21,6 +23,7 @@ public class Punto
         //System.Console.WriteLine("Este es el constructor por defecto");
         this.x = 0;
         this.y = 0;
+        contadorDeObjetos++;
     }
 
     public double DistanciaHasta(Punto otroPunto)
@@ -31,4 +34,12 @@ public class Punto
         return distanciaPuntos;
         //hola
     }
+
+    public static int Contador()
+    {
+        // También podemos usar => "Contador() => CotadorDeObjetos;" si solo tiene una línea de código
+        return contadorDeObjetos;
+    }
+
+    private static int contadorDeObjetos = 0;
 }
