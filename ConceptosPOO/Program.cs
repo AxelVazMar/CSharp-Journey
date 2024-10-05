@@ -5,7 +5,25 @@
     {
         public static void Main(string[] args)
         {
-            RealizarTarea();
+            //RealizarTarea();
+
+            // Primera clase anonima. miVariable no es el nombre de la clase
+            var miVariable = new { Nombre = "Axel", Edad = 24 };
+            Console.Write(miVariable.Nombre + " " + miVariable.Edad);
+            /* Esta variable también pertenece a la misma clase
+            ya que en función a número de campos, tipo de los campos y el orden los campos
+            C# determina si se trata de la mimsa clase o no.
+            */
+            var miOtraVariable = new { Nombre = "Evelin", Edad = 24 };
+
+            miVariable = miOtraVariable;
+            /*
+            Requisitos de las clases anónimas:
+            1-. Solo pueden contener campos públicos
+            2-. Todos los campos deben de estar iniciados
+            3-. Los campos no puede ser static
+            4-. No se pueden definir métodos
+            */
         }
 
         static void RealizarTarea()
