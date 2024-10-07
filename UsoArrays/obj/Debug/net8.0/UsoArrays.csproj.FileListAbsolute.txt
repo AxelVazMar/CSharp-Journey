@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\UsoArrays\bin\Debug\net8.0\UsoArrays.exe
+D:\C# Projects\C#-Journey\UsoArrays\bin\Debug\net8.0\UsoArrays.deps.json
+D:\C# Projects\C#-Journey\UsoArrays\bin\Debug\net8.0\UsoArrays.runtimeconfig.json
+D:\C# Projects\C#-Journey\UsoArrays\bin\Debug\net8.0\UsoArrays.dll
+D:\C# Projects\C#-Journey\UsoArrays\bin\Debug\net8.0\UsoArrays.pdb
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.sourcelink.json
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.dll
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\refint\UsoArrays.dll
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.pdb
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\UsoArrays.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\UsoArrays\obj\Debug\net8.0\ref\UsoArrays.dll
