@@ -1,0 +1,15 @@
+D:\C# Projects\C#-Journey\OtrosUsosArrays\bin\Debug\net8.0\OtrosUsosArrays.exe
+D:\C# Projects\C#-Journey\OtrosUsosArrays\bin\Debug\net8.0\OtrosUsosArrays.deps.json
+D:\C# Projects\C#-Journey\OtrosUsosArrays\bin\Debug\net8.0\OtrosUsosArrays.runtimeconfig.json
+D:\C# Projects\C#-Journey\OtrosUsosArrays\bin\Debug\net8.0\OtrosUsosArrays.dll
+D:\C# Projects\C#-Journey\OtrosUsosArrays\bin\Debug\net8.0\OtrosUsosArrays.pdb
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.AssemblyInfoInputs.cache
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.AssemblyInfo.cs
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.csproj.CoreCompileInputs.cache
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.sourcelink.json
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.dll
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\refint\OtrosUsosArrays.dll
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.pdb
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\OtrosUsosArrays.genruntimeconfig.cache
+D:\C# Projects\C#-Journey\OtrosUsosArrays\obj\Debug\net8.0\ref\OtrosUsosArrays.dll
