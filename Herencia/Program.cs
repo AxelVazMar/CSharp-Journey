@@ -23,7 +23,20 @@ class Program
         /* Este array no da error ya que estamos usando el principio de sustitución ya que el array es de tipo mamiferos
         por lo que será capaz de almacenar datos de tipo Mamiferos */
 
+        /* Accediendo a los métodos del array almacenAnimales y viendo el funcionamineto del polimorfismo */
+        for (int i = 0; i < 3; i++)
+        {
+            almacenMamiferos[i].getNombre();
+            almacenMamiferos[i].Pensar();
+            /* En este caso el método pensar usará el polimorfismo ya que su comportamiento dependerá del
+            Objeto almacenado en el array el que determinará la salida de este
+            en el Objeto caballo la salida será: "Pensamiento básico instintivo
+            en el Objeto Humano la salida será: "Soy capaz de pensar ¿?"
+            en el Objeto Gorial la salida será: "Pensamiento instintivo avanzado" */
+        }
+
         //Accediendo a los métodos del dato guardado en el array
+        System.Console.WriteLine("\nSaliendo del array");
         almacenMamiferos[1].getNombre();
 
         /*Juan.getNombre();
@@ -72,6 +85,15 @@ class Mamiferos
             Console.WriteLine("Soy capaz de respirar");
         }
 
+    // la palabra reservada virtual sirve para que en la clase padre y sus subclases deberían de tener un método pensar
+    // que modifiquen la clase "Pensar"
+    // Para hacer esto después de public o antes de la especificación del método se pone la palabra "virtual"
+    // Para que todo funcione tenemos que declarar el método de la clase padre como Virtual 
+    public virtual void Pensar()
+        {
+            Console.WriteLine("Pensamiento básico instintivo");
+        }
+
     public void CuidarCrias()
         {
             Console.WriteLine("Cuido de mis crías hasta que se puedan valer por sí mismas");
@@ -101,11 +123,12 @@ class Caballo : Mamiferos
 class Humano : Mamiferos
 {
 
-        public Humano(string nombreHumano) : base(nombreHumano)
+    public Humano(string nombreHumano) : base(nombreHumano)
         {
 
         }
-        public void Pensar()
+    // Override sirve para decirle a C# que es el mismo método pero con modificaciones
+    public override void Pensar()
         {
             System.Console.WriteLine("Soy capaz de pensar ¿?");
         }
@@ -117,6 +140,11 @@ class Gorila : Mamiferos
     public Gorila(String nombreGorila) : base(nombreGorila)
     {
 
+    }
+
+    public override void Pensar()
+    {
+        Console.WriteLine("Pensamiento instintivo avanzado");
     }
 
     public void Trepar()
