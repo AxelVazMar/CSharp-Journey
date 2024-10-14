@@ -23,11 +23,8 @@ class Program
         /* Este array no da error ya que estamos usando el principio de sustitución ya que el array es de tipo mamiferos
         por lo que será capaz de almacenar datos de tipo Mamiferos */
 
+        //Accediendo a los métodos del dato guardado en el array
         almacenMamiferos[1].getNombre();
-        for (int i = 0; i < almacenMamiferos.Length; i++)
-        {
-            System.Console.WriteLine(almacenMamiferos[i]);
-        }
 
         /*Juan.getNombre();
         Friezan.getNombre();
