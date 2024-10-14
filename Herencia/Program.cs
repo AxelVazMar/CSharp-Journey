@@ -26,6 +26,7 @@ class Program
         /* Accediendo a los métodos del array almacenAnimales y viendo el funcionamineto del polimorfismo */
         for (int i = 0; i < 3; i++)
         {
+    
             almacenMamiferos[i].getNombre();
             almacenMamiferos[i].Pensar();
             /* En este caso el método pensar usará el polimorfismo ya que su comportamiento dependerá del
@@ -88,7 +89,7 @@ class Mamiferos
     // la palabra reservada virtual sirve para que en la clase padre y sus subclases deberían de tener un método pensar
     // que modifiquen la clase "Pensar"
     // Para hacer esto después de public o antes de la especificación del método se pone la palabra "virtual"
-    // Para que todo funcione tenemos que declarar el método de la clase padre como Virtual 
+    // Para que la palabra override funcione tenemos que declarar el método de la clase padre como Virtual 
     public virtual void Pensar()
         {
             Console.WriteLine("Pensamiento básico instintivo");
