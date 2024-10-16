@@ -65,7 +65,21 @@ class Program
 
         Object miAnimal = new Caballo("Bucefalo");
 
+        Ballena miKeiko = new Ballena("Keiko");
+        miKeiko.Nadar();
+        //Accediendo al método de la interfaz de IMamiferosTerrestres
+        Console.WriteLine($"Número de patas de Spirit: " + Friezan.NumeroPatas());
+        
+
+
     }
+}
+
+/* Creando interfaces */
+interface IMamiferosTerrestres
+{
+    // Método de la interfaz, estas se desarrollan en las clases que ocupen estas inferfaces
+    int NumeroPatas();
 }
 
 class Mamiferos
@@ -82,44 +96,50 @@ class Mamiferos
     
 
     public void Respirar()
-        {
-            Console.WriteLine("Soy capaz de respirar");
-        }
+    {            
+        Console.WriteLine("Soy capaz de respirar");
+    }
 
     // la palabra reservada virtual sirve para que en la clase padre y sus subclases deberían de tener un método pensar
     // que modifiquen la clase "Pensar"
     // Para hacer esto después de public o antes de la especificación del método se pone la palabra "virtual"
     // Para que la palabra override funcione tenemos que declarar el método de la clase padre como Virtual 
     public virtual void Pensar()
-        {
-            Console.WriteLine("Pensamiento básico instintivo");
-        }
+    {
+        Console.WriteLine("Pensamiento básico instintivo");
+    }
 
     public void CuidarCrias()
-        {
-            Console.WriteLine("Cuido de mis crías hasta que se puedan valer por sí mismas");
-        }
+    {
+        Console.WriteLine("Cuido de mis crías hasta que se puedan valer por sí mismas");
+    }
 
     public void getNombre()
-        {
-            Console.WriteLine("El nombre del ser vivo es: " + nombreSerVivo);
-        }
+    {
+        Console.WriteLine("El nombre del ser vivo es: " + nombreSerVivo);
+    }
 
-     }
+}
 
-class Caballo : Mamiferos
+class Caballo : Mamiferos, IMamiferosTerrestres
+{
+    public Caballo(String nombreCaballo) : base(nombreCaballo)
     {
 
-        public Caballo(String nombreCaballo) : base(nombreCaballo)
-        {
+    }
+    
+    public void Galopar()
+    {
+        System.Console.WriteLine("Soy capaz de galopar");
+    }
 
-        }
+    public int NumeroPatas()
+    {
+        return 4;
+    }
 
-        public void Galopar()
-        {
-            System.Console.WriteLine("Soy capaz de galopar");
-        }
-     }
+
+}
 
 class Humano : Mamiferos
 {
@@ -135,7 +155,7 @@ class Humano : Mamiferos
         }
      }
 
-class Gorila : Mamiferos
+class Gorila : Mamiferos, IMamiferosTerrestres
 {
     
     public Gorila(String nombreGorila) : base(nombreGorila)
@@ -153,4 +173,22 @@ class Gorila : Mamiferos
         Console.WriteLine("Soy capaz de trepar");
     }
 
+    public int NumeroPatas()
+    {
+        return 2;
+    }
+
+}
+
+class Ballena : Mamiferos
+{
+    public Ballena(string nombreBellena) : base(nombreBellena)
+    {
+
+    }
+
+    public void Nadar()
+    {
+        Console.WriteLine("Soy capaz de nadar");
+    }
 }
