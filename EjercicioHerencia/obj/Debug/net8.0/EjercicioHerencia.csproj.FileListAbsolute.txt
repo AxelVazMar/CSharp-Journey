@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/bin/Debug/net8.0/EjercicioHerencia
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/bin/Debug/net8.0/EjercicioHerencia.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/bin/Debug/net8.0/EjercicioHerencia.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/bin/Debug/net8.0/EjercicioHerencia.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/bin/Debug/net8.0/EjercicioHerencia.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/refint/EjercicioHerencia.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/EjercicioHerencia.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/EjercicioHerencia/obj/Debug/net8.0/ref/EjercicioHerencia.dll
