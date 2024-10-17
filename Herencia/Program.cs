@@ -109,6 +109,15 @@ interface ISaltoConPatas
 
 }
 
+/* RESTRICCIONES DE LAS INTERFACES */
+/*
+1-. No se permite definir variables
+2-. No se permite definir constructores
+3-. No se permite definir destructores
+4-. No se permite definir el modificador de acceso en los métodos (Todos son public de manera implícita)
+5-. No se permite crear clases ni ninguna otra estructura dentro de una interfaz
+*/
+
 class Mamiferos
 {
 
