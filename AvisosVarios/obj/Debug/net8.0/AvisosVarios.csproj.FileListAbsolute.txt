@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/bin/Debug/net8.0/AvisosVarios
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/bin/Debug/net8.0/AvisosVarios.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/bin/Debug/net8.0/AvisosVarios.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/bin/Debug/net8.0/AvisosVarios.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/bin/Debug/net8.0/AvisosVarios.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/refint/AvisosVarios.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/AvisosVarios.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/AvisosVarios/obj/Debug/net8.0/ref/AvisosVarios.dll
