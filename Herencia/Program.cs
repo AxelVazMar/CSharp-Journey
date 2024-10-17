@@ -67,8 +67,17 @@ class Program
 
         Ballena miKeiko = new Ballena("Keiko");
         miKeiko.Nadar();
-        //Accediendo al método de la interfaz de IMamiferosTerrestres
-        Console.WriteLine($"Número de patas de Spirit: " + Friezan.NumeroPatas());
+        // Accediendo al método de la interfaz IMamiferosTerrestres
+        IMamiferosTerrestres ImiFriezan = Friezan;
+        // Accediendo al método de la interfaz ISaltoConPatas
+        ISaltoConPatas IFriezan = Friezan;
+
+        // Mostrando el contenido del método NumeroPatas() de la interfaz IMamiferosTerrestres
+        Console.WriteLine($"Número de patas de Spirit: " + ImiFriezan.NumeroPatas());
+
+        // Mostrando el contenido del método NumeroPatas() de la interfaz ISaltoConPatas
+        Console.WriteLine("Spirit salta con " + IFriezan.NumeroPatas() + " Patas");
+        
         
 
 
@@ -80,6 +89,24 @@ interface IMamiferosTerrestres
 {
     // Método de la interfaz, estas se desarrollan en las clases que ocupen estas inferfaces
     int NumeroPatas();
+
+}
+
+interface IAnimalesDeDeportes
+{
+
+    //Interfaz con varios métodos. Esto obliga a que todas las clases que hereden esta interfaz deben implementar todos los métodos
+    string TipoDeDeporte();
+    bool EsOlimpico();
+
+}
+
+interface ISaltoConPatas
+{
+    
+    // Interfaz con el mismo nombre de método en IMamiferosTerrestres
+    int NumeroPatas();
+
 }
 
 class Mamiferos
@@ -121,7 +148,8 @@ class Mamiferos
 
 }
 
-class Caballo : Mamiferos, IMamiferosTerrestres
+//En C# No se permite que una clase herede de múltiples clases, lo que sí se permite es que herede varias INTERFACES
+class Caballo : Mamiferos, IMamiferosTerrestres, IAnimalesDeDeportes, ISaltoConPatas
 {
     public Caballo(String nombreCaballo) : base(nombreCaballo)
     {
@@ -130,14 +158,32 @@ class Caballo : Mamiferos, IMamiferosTerrestres
     
     public void Galopar()
     {
-        System.Console.WriteLine("Soy capaz de galopar");
+        Console.WriteLine("Soy capaz de galopar");
     }
 
-    public int NumeroPatas()
+    //Resolviendo ambiguedad de la interfaz IAnimalesTerrestres e ISaltoConPatas 
+    // Hay que borrar el modificador de accesos del método y luego poner la interfaz ejemplo: IMamiferosTerrestres.NumeroPatas();
+    int IMamiferosTerrestres.NumeroPatas()
     {
         return 4;
     }
 
+    /* Implementando los múltiples métodos de la interfaz IAnimalesDeDeportes */
+    public string TipoDeDeporte()
+    {
+        return "Hípica";
+    }
+
+    public bool EsOlimpico()
+    {
+        return true;
+    }
+
+    // Especificando la inmterfaz a la que pertenece el método NumeroPatas()
+    int ISaltoConPatas.NumeroPatas()
+    {
+        return 2;
+    } 
 
 }
 
