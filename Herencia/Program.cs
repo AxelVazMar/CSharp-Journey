@@ -5,30 +5,30 @@ class Program
     public static void Main(string[] args)
     {
 
-        Caballo Friezan = new Caballo("Spirit");
+        /*Caballo Friezan = new Caballo("Spirit");
         Humano Juan = new Humano("Juan");
-        Gorila Copito = new Gorila("Copito");
+        Gorila Copito = new Gorila("Copito"); */
 
         /* Creando arrays con el principio de sutitución */
 
-        Caballo[] almacenAnimales = new Caballo[3];
-        almacenAnimales[0] = Friezan;
+        /*Caballo[] almacenAnimales = new Caballo[3];
+        almacenAnimales[0] = Friezan;*/
         //almacenAnimales[1] = Juan; // En este caso el array da error ya que el array que estamos creando es de tipo caballo
         //Por lo que no se pueden alamacernar datos de otro tipo que no sea de tipo Caballo
 
-        Mamiferos[] almacenMamiferos = new Mamiferos[3];
+        /*Mamiferos[] almacenMamiferos = new Mamiferos[3];
         almacenMamiferos[0] = Friezan;
         almacenMamiferos[1] = Juan;
-        almacenMamiferos[2] = Copito;
+        almacenMamiferos[2] = Copito; */
         /* Este array no da error ya que estamos usando el principio de sustitución ya que el array es de tipo mamiferos
         por lo que será capaz de almacenar datos de tipo Mamiferos */
 
         /* Accediendo a los métodos del array almacenAnimales y viendo el funcionamineto del polimorfismo */
-        for (int i = 0; i < 3; i++)
+        //for (int i = 0; i < 3; i++)
         {
     
-            almacenMamiferos[i].getNombre();
-            almacenMamiferos[i].Pensar();
+            /*almacenMamiferos[i].getNombre();
+            almacenMamiferos[i].Pensar();*/
             /* En este caso el método pensar usará el polimorfismo ya que su comportamiento dependerá del
             Objeto almacenado en el array el que determinará la salida de este
             en el Objeto caballo la salida será: "Pensamiento básico instintivo
@@ -37,8 +37,8 @@ class Program
         }
 
         //Accediendo a los métodos del dato guardado en el array
-        System.Console.WriteLine("\nSaliendo del array");
-        almacenMamiferos[1].getNombre();
+        //System.Console.WriteLine("\nSaliendo del array");
+        //almacenMamiferos[1].getNombre();
 
         /*Juan.getNombre();
         Friezan.getNombre();
@@ -51,19 +51,19 @@ class Program
         // la clase "Humano" no existe sí que deja usar las propiades generales de la Clase cósmica "Mamiferos"
 
         /* Instancias donde no usamos el principio de sustitución */
-        Mamiferos animal = new Mamiferos("Bucéfalo");
-        Caballo Bucefalo = new Caballo("Bucéfalo");
+        //Mamiferos animal = new Mamiferos("Bucéfalo");
+        //Caballo Bucefalo = new Caballo("Bucéfalo");
         /* Solo hemos creado instancias pertenecientes a las clases Mamiferos y Caballo */
 
         /* Aquí sí usamos el principio de sustitución a partir de dos instancias previamente creadas */
-        animal = Bucefalo; 
+        //animal = Bucefalo; 
         /* Aquí es válido ya que la variable animal pertenece a la clase mamiferos y 
         la variable Bucefalo pertemece a la clase caballo 
         Por lo que un Caballo es siempre un Mamifero */
 
         // Bucefalo = animal; Aquí la sintaxis es incorrecta ya que estaríamos diciendo que un Mamifero es siempre un Caballo
 
-        Object miAnimal = new Caballo("Bucefalo");
+        /* Object miAnimal = new Caballo("Bucefalo");
 
         Ballena miKeiko = new Ballena("Keiko");
         miKeiko.Nadar();
@@ -76,10 +76,15 @@ class Program
         Console.WriteLine($"Número de patas de Spirit: " + ImiFriezan.NumeroPatas());
 
         // Mostrando el contenido del método NumeroPatas() de la interfaz ISaltoConPatas
-        Console.WriteLine("Spirit salta con " + IFriezan.NumeroPatas() + " Patas");
+        Console.WriteLine("Spirit salta con " + IFriezan.NumeroPatas() + " Patas"); */
         
-        
+        Lagartija miLagartija = new Lagartija("Juancho");
+        miLagartija.getNombre(); 
+        miLagartija.Respirar();
 
+        Humano miHumano = new Humano("Juan");
+        miHumano.getNombre();
+        miHumano.Respirar();
 
     }
 }
@@ -118,7 +123,38 @@ interface ISaltoConPatas
 5-. No se permite crear clases ni ninguna otra estructura dentro de una interfaz
 */
 
-class Mamiferos
+/* Creando clases abstractas */
+
+abstract class Animales
+{
+    public void Respirar()
+    {
+        Console.WriteLine("Soy capaz de respirar");
+    }
+
+    public abstract void getNombre();
+
+}
+
+class Lagartija : Animales
+{
+
+    private string nombreReptil;
+
+    public Lagartija(string nombre)
+    {
+        nombreReptil = nombre;
+    }
+
+    public override void getNombre()
+    {
+        Console.WriteLine("El nombre del reptil es: " + nombreReptil);
+        
+    }
+}
+
+
+class Mamiferos : Animales
 {
 
     //creando un campo de clase
@@ -128,12 +164,6 @@ class Mamiferos
     public Mamiferos(String nombre)
     {
         nombreSerVivo = nombre;
-    }
-    
-
-    public void Respirar()
-    {            
-        Console.WriteLine("Soy capaz de respirar");
     }
 
     // la palabra reservada virtual sirve para que en la clase padre y sus subclases deberían de tener un método pensar
@@ -150,9 +180,9 @@ class Mamiferos
         Console.WriteLine("Cuido de mis crías hasta que se puedan valer por sí mismas");
     }
 
-    public void getNombre()
+    public override void getNombre()
     {
-        Console.WriteLine("El nombre del ser vivo es: " + nombreSerVivo);
+        Console.WriteLine("El nombre del mamífero es: " + nombreSerVivo);
     }
 
 }
