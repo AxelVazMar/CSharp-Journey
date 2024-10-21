@@ -234,11 +234,25 @@ class Humano : Mamiferos
 
         }
     // Override sirve para decirle a C# que es el mismo método pero con modificaciones
-    public override void Pensar()
+    // Creando un método sealed para que este no pueda ser sobreescrito por otras clases que hereden este método de humano
+    public sealed override void Pensar()
         {
             System.Console.WriteLine("Soy capaz de pensar ¿?");
         }
-     }
+}
+
+class Adolescente : Humano
+{
+    public Adolescente(string nombreAdolescente) : base(nombreAdolescente)
+    {
+
+    }
+
+   /* public override void Pensar()
+    {
+        Console.WriteLine("Las hormonas me impiden pensar con claridad");
+    } */
+}
 
 class Gorila : Mamiferos, IMamiferosTerrestres
 {
