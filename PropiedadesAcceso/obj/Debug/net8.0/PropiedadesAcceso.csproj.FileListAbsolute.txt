@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/bin/Debug/net8.0/PropiedadesAcceso
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/bin/Debug/net8.0/PropiedadesAcceso.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/bin/Debug/net8.0/PropiedadesAcceso.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/bin/Debug/net8.0/PropiedadesAcceso.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/bin/Debug/net8.0/PropiedadesAcceso.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/refint/PropiedadesAcceso.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/PropiedadesAcceso.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/PropiedadesAcceso/obj/Debug/net8.0/ref/PropiedadesAcceso.dll
