@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/bin/Debug/net8.0/Destructores
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/bin/Debug/net8.0/Destructores.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/bin/Debug/net8.0/Destructores.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/bin/Debug/net8.0/Destructores.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/bin/Debug/net8.0/Destructores.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/refint/Destructores.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/Destructores.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Destructores/obj/Debug/net8.0/ref/Destructores.dll
