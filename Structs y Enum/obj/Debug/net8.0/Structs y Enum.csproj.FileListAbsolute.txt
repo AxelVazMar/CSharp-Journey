@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/bin/Debug/net8.0/Structs y Enum
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/bin/Debug/net8.0/Structs y Enum.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/bin/Debug/net8.0/Structs y Enum.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/bin/Debug/net8.0/Structs y Enum.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/bin/Debug/net8.0/Structs y Enum.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/refint/Structs y Enum.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/Structs y Enum.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Structs y Enum/obj/Debug/net8.0/ref/Structs y Enum.dll
