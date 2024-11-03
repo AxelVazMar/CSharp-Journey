@@ -1,0 +1,15 @@
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/bin/Debug/net8.0/Queue
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/bin/Debug/net8.0/Queue.deps.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/bin/Debug/net8.0/Queue.runtimeconfig.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/bin/Debug/net8.0/Queue.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/bin/Debug/net8.0/Queue.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.AssemblyInfoInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.AssemblyInfo.cs
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.csproj.CoreCompileInputs.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.sourcelink.json
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/refint/Queue.dll
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.pdb
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/Queue.genruntimeconfig.cache
+/Users/axelvm/Documents/C#/CSharp-Journey/CSharp-Journey/Queue/Queue/obj/Debug/net8.0/ref/Queue.dll
